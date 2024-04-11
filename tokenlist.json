@@ -1,0 +1,34 @@
+{
+  "name": "DEGENX",
+  "logoURI": "https://degenx.tips/tokenlist/icon/rdegenicon.png",
+  "keywords": [
+    "DEGENX",
+    "Exchange"
+  ],
+  "timestamp": "2024-04-10T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 666666666,
+      "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+      "name": "Wrapped Degen",
+      "symbol": "WDEGEN",
+      "decimals": 18,
+      "logoURI": "https://degenx.tips/tokenlist/icon/degenicon.png"
+    },
+    {
+      "chainId": 666666666,
+      "address": "0x060A3c9509C2Ba8c1595a64EA121D346978044E3",
+      "name": "RICH DEGEN",
+      "symbol": "RDEGEN",
+      "decimals": 18,
+      "logoURI": "https://degenx.tips/tokenlist/icon/rdegenicon.png"
+    }
+    
+   
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
